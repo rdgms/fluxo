@@ -14,11 +14,8 @@ require.config({
 
 
 require(['react', 'jsx!components/noteComponent'], function(React, NoteComponent) {
-	debugger;
-
 	React.renderComponent(
 	  NoteComponent(),
 	  document.getElementById('container')
 	);
-
 });
