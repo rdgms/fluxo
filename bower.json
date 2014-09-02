@@ -1,0 +1,20 @@
+{
+  "name": "fluxo",
+  "version": "0.0.0",
+  "authors": [
+    "Rodrigo <rodrigo.cofee@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rsvp": "~3.0.13",
+    "stapes": "~0.8.1"
+  }
+}
