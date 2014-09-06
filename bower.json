@@ -14,7 +14,8 @@
     "tests"
   ],
   "dependencies": {
-    "rsvp": "~3.0.13",
+    "react": "",
+    "require.js": "",
     "stapes": "~0.8.1"
   }
 }
